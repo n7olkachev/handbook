@@ -6,8 +6,25 @@
 * добавить на cmsmagazine и в рейтинг
 * https
 * проверить robots.txt  и дев сервер
+* заглушка для неподдерживаемых браузеров
+* проверка https://www.google.com/webmasters/tools/mobile-friendly/?hl=ru
+* проверка https://developers.google.com/speed/pagespeed/insights/?hl=ru
+* наличие favicon
+* редирект с www на без, склейка с http
+* счетчики Яндекс и Google
+* проверить настройка cron
+* лог ошибок приложения стоит ежедневный, а не всю в одну кучу
+* проверить часовой пояс
+* сменить все пароли
+* ссылка на логотипы
+* проверить формы на работу
+* кликабельны ссылки и картинки новости
+* правописание, перечитать текста
+* внешние ссылки: соц сети например
+* копирайт внизу наш
+* верные контактные данные
 
-Полезное есть тут https://www.shopolog.ru/metodichka/attracting-clients/chek-list-po-reanimacii-internet-magazina/
+Полезное есть тут https://www.shopolog.ru/metodichka/attracting-clients/chek-list-po-reanimacii-internet-magazina/ и в нашем редмайне
 
 ## Внутрення кухня
 подача в рейтинги, в портфолио, анализ проекта и что можно
