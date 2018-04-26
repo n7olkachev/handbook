@@ -23,6 +23,7 @@
 * внешние ссылки: соц сети например
 * копирайт внизу наш
 * верные контактные данные
+* уведолменияна почту клиента
 
 Полезное есть тут https://www.shopolog.ru/metodichka/attracting-clients/chek-list-po-reanimacii-internet-magazina/ и в нашем редмайне
 
